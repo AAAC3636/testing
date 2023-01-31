@@ -8,9 +8,7 @@ function Dashboard() {
     <div className="grid grid-cols-9">
       <div className="col-span-2 border h-full">
         <div className="p-5">
-          <h1 className="text-center text-3xl text-green-400">
-            Merry Meal Hi testing
-          </h1>
+          <h1 className="text-center text-3xl text-green-400">Merry Meal</h1>
         </div>
         <SidebarNav />
       </div>
