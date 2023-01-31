@@ -7,7 +7,6 @@ import SidebarNav from "./SidebarNav";
 function Dashboard() {
   
   return (
-    
       <div className="grid grid-cols-9">
         <div className="col-span-2 border h-full">
           <div className="p-5">
